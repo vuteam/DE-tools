@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rules>
+	
+	<ruleset name="Cyrus" Dtt="#NAME CST® TERRESTRIAL">			
+		<rule type="marker" Sat="130" Id="2008" ></rule>
+		<rule type="marker" Sat="322" Id="2006" ></rule>		
+		<rule type="marker" Sat="412" Id="2004" ></rule>		
+		<rule type="marker" Sat="1000" Id="2002" ></rule>
+		<rule type="marker" Sat="557" Id="2005" ></rule>			
+		<rule type="marker" Sat="839" Id="2003" ></rule>
+		<rule type="marker" Sat="220" Id="2007" ></rule>		
+	</ruleset>	
+	<ruleset name="Corvone" Dtt="#NAME Digital Terrestrial">			
+		<rule type="marker" Sat="130" Id="3001" ></rule>
+		<rule type="marker" Sat="322" Id="3002" ></rule>				
+		<rule type="marker" Sat="1000" Id="3003" ></rule>	
+	</ruleset>
+	<ruleset name="Vhannibal" Dtt="#NAME Digitale Terrestre">				
+		<rule type="marker" Sat="130" Id="1009" ></rule>
+		<rule type="marker" Sat="322" Id="1010" ></rule>		
+		<rule type="marker" Sat="812" Id="1014" ></rule>
+		<rule type="marker" Sat="362" Id="1015" ></rule>				
+		<rule type="marker" Sat="22" Id="1016" ></rule>
+		<rule type="marker" Sat="322" Id="301" ></rule>				
+		<rule type="marker" Sat="572" Id="1012" ></rule>
+		<rule type="marker" Sat="839" Id="1013" ></rule>		
+		<rule type="marker" Sat="1000" Id="1011" ></rule>
+	</ruleset>		
+</rules>
+
